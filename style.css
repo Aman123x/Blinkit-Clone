@@ -207,6 +207,13 @@ td{
     padding: 10px;
 }
 
+.last{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 15px;
+}
+
 
 @media screen and (max-width:768px){
     nav,.row-2,.row-1{
